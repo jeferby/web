@@ -486,7 +486,7 @@ top: -3px;
 }
 .main-menu ul li a {
 	display: block;
-	color: #00173c;
+	color: #042752dd;
 	padding: 20px 0;
     font-weight: 500;
 	position: relative;
@@ -532,7 +532,7 @@ color: #191D3B;
    display: inline-block;
     position: absolute;
     top: 16px;
-    border: 2px solid #00173c;
+    border: 2px solid #002258;
     border-radius: 30px;
     left: 20%;
 }
@@ -873,7 +873,7 @@ z-index: 9;
 }
 .header-three .sticky-menu {
   margin-top: 0;
-    background: #00173c;
+    background: #003066;
 }
 
 .header-three .main-menu ul li a {
@@ -2234,7 +2234,7 @@ position: absolute;
 top: 0;
 left: 0;
 padding: 100px 60px 0;
-background: #00173c;
+background: #003066;
 height: 100%;
 width: 100%;
 color: #fff;
@@ -9456,7 +9456,7 @@ color: #6e6e6e;
   	margin-bottom: 18px;
 }
 blockquote,.pages-content blockquote,.comment-list blockquote {
-background:#00173c;
+background:#003066;
 border-radius: 10px;
 padding: 50px 45px 57px !important;
 position: relative;
